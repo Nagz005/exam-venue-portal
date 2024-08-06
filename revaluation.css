@@ -1,0 +1,15 @@
+.revaluation{
+    grid-area: main;
+    width: 100%;
+    margin: 3vw;
+}
+.revaluation table{
+    margin: 3vw;
+}
+.revaluation input,.revaluation select{
+    margin: 20px;
+    position: relative;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+}
